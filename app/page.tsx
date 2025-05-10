@@ -253,7 +253,7 @@ export default function Home() {
                       </div>
                       <div>
                         <p className="text-sm text-slate-500">Phone</p>
-                        <p className="font-medium">03199244031</p>
+                        <p className="font-medium">03000000000</p>
                       </div>
                     </div>
                     <div className="flex items-center">
